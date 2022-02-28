@@ -62,6 +62,11 @@ baseline330ForPharo: spec
 				package: 'Magritte-Developer' with: [ spec requires: #('PharoEnhancements') ].
 			spec group: 'default' with: #('Magritte-GT' 'Magritte-Developer') ].
 	spec
+		for: #(#'pharo9.x' #'pharo10.x')
+		do: [ 
+			spec package: 'Magritte-Spec'.
+			spec group: 'Spec' with: #('Core' 'Magritte-Spec') ].
+	spec
 		for: #squeakCommon
 		do: [ 
 			spec
