@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "SpPresenter",
+	"category" : "Magritte-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"memento",
+		"description",
+		"parent",
+		"presenterBuilderClass"
+	],
+	"name" : "MpContainerPresenter",
+	"type" : "normal"
+}

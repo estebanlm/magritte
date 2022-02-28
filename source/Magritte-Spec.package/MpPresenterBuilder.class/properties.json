@@ -1,0 +1,15 @@
+{
+	"classtraitcomposition" : "SpTPresenterBuilder classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"presenter"
+	],
+	"name" : "MpPresenterBuilder",
+	"commentStamp" : "",
+	"super" : "MAVisitor",
+	"traitcomposition" : "SpTPresenterBuilder",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Magritte-Spec"
+}

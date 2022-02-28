@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MpPresenterBuilder",
+	"category" : "Magritte-Spec",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"rowCount",
+		"gridLayout"
+	],
+	"name" : "MpGridPresenterBuilder",
+	"type" : "normal"
+}
